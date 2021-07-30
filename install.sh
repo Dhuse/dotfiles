@@ -13,7 +13,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 # Configure profile
 dir=~/dotfiles
-files=".gitconfig"
+files=".gitconfig .zshrc"
 
 # Create a dir to move the configuration files there
 cd $dir
